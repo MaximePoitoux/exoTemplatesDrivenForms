@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "exoTemplateDrivenForms"
+    }
+  },
+  "defaultProject": "exoTemplateDrivenForms",
+  "cli": {
+    "analytics": "70ee9731-b3e1-4481-979e-3493dd2b736d"
+  }
 }
